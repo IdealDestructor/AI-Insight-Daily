@@ -45,7 +45,8 @@ menu:
       weight: 1
     - identifier: blog
       name: 博客
-      pageRef: /blog
+      # pageRef: /blog
+      url: "https://blog.deqiang.wang"
       weight: 2
     - identifier: about
       name: 关于我 ↗

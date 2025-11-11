@@ -10,10 +10,6 @@ cascade:
 
 ## AI资讯日报 2025/11/11
 
->  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
-
-
-
 ### **今日摘要**
 
 ```
@@ -71,18 +67,6 @@ cascade:
 6.  彼得·蒂尔的“从0到1”理论，就像一盆冷水浇醒了那些沉迷于“从1到100”的模仿者 (；ﾟДﾟ)。正如[这位博主分享的视频（AI资讯）](https://x.com/JamesGoong/status/1987765228927648087)所说，下一个扎克伯格不会再做一个社交网站，因为每一次真正伟大的创新都是独一无二、无法复制的。商业的本质是独特性，而不是在已有的赛道上内卷，这或许值得每个创业者深思 🤔。<br/><video src="https://video.twimg.com/amplify_video/1987375656750227458/vid/avc1/1280x720/WBhuKUuq_X7-_Q7f.mp4?tag=21" controls="controls" width="100%"></video>
 
 7.  内容创作圈的“拿来主义”有多严重？[一位博主感慨道（AI资讯）](https://x.com/Yangyixxxx/status/1987676721039208706)，Dan Koe一个人的内容就养活了无数个爆款自媒体账号 (눈_눈)。从推特到小红书，再到抖音，全都在疯狂洗稿他的AI内容生产流。更可悲的是，许多洗稿者连一点自己的思考都不加，纯粹是内容的“搬运工” 😵。
-
-
-
-
----
-
-## **AI资讯日报语音版**
-
-| 🎙️ **小宇宙** | 📹 **抖音** |
-| --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
 
 
 

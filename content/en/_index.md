@@ -10,8 +10,6 @@ cascade:
 ---
 ## AI News Daily 2025/11/11
 
-> AI News | Daily Briefing | Web Data Aggregation | Frontier Science Exploration | Industry Voice | Open Source Innovation | AI & Human Future | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join Group Chat 🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
-
 ### **Today's Digest**
 
 ```
@@ -69,12 +67,3 @@ According to one developer, cheap models might actually rack up higher hidden co
 6.  Peter Thiel's "Zero to One" theory just dropped like a bucket of cold water on all those imitators stuck in the "1 to 100" grind! 🥶 As [this blogger's shared video (AI News)](https://x.com/JamesGoong/status/1987765228927648087) wisely points out, the next Mark Zuckerberg won't be building another social media site. Why? Because every truly awesome innovation is totally one-of-a-kind and impossible to copy. Business success isn't about crushing it on existing playing fields; it's all about uniqueness. Something every entrepreneur should seriously ponder, right? 🤔<br/><video src="https://video.twimg.com/amplify_video/1987375656750227458/vid/avc1/1280x720/WBhuKUuq_X7-_Q7f.mp4?tag=21" controls="controls" width="100%"></video>
 
 7.  Just how wild is the "borrowed content" scene in the content creation world? 😬 A [blogger recently lamented (AI News)](https://x.com/Yangyixxxx/status/1987676721039208706) that Dan Koe's content alone has spawned countless viral self-media accounts! 🤦‍♀️ Seriously, from Twitter to Xiaohongshu and Douyin, everyone's gone crazy rehashing his AI content production flow. And the saddest part? Many of these content copycats don't even sprinkle in an ounce of their own thought—they're just pure "content movers." 😵
-
----
-
-## **AI News Daily Audio Version**
-
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
-| --- | --- |
-| [Future Life Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
