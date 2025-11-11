@@ -6,7 +6,7 @@ on:
       source_repo:
         description: '要拉取代码的源仓库 (格式: owner/repo)'
         required: true
-        default: 'justlovemaki/CloudFlare-AI-Insight-Daily' # <<< 请修改为你的源仓库
+        default: 'idealdestructor/CloudFlare-AI-Insight-Daily' # <<< 请修改为你的源仓库
       source_branch:
         description: '要拉取的源分支'
         required: true
