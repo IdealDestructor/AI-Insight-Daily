@@ -50,6 +50,13 @@ jobs:
             echo "警告: 仓库变量 IMAGE_PROXY_URL 未设置，跳过 URL 替换。"
           fi
 
+      # 第2.5步：移除 Markdown 中无需构建的固定内容
+      - name: Strip redundant sections from Markdown
+        run: |
+          echo "开始清理 clone/daily/ 目录下的 Markdown 文件中指定的段落..."
+          python3 scripts/strip_md_sections.py clone/daily
+          echo "Markdown 固定段落已处理完成。"
+
       # 第3步：核心处理逻辑 (归档、更新主页和侧边栏)
       - name: Process, Archive, and Update Content
         run: |
