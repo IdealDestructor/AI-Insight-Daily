@@ -126,16 +126,6 @@ params:
       # 按以下内容索引页面：content | summary | heading | title
       index: content
 
-  comments:
-    enable: false
-    type: giscus
-
-    giscus:
-      repo: idealdestructor/AI-Insight-Daily
-      repoId: R_kgDOO_2Owg
-      category: Announcements
-      categoryId: DIC_kwDOO_2Ows4Cr2Q0
-
 defaultContentLanguage: zh
 languages:
   zh:
