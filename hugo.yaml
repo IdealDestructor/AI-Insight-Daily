@@ -43,14 +43,9 @@ menu:
       name: AI日报
       pageRef: /
       weight: 1
-    - identifier: blog
-      name: 博客
-      # pageRef: /blog
-      url: "https://blog.deqiang.wang"
-      weight: 2
     - identifier: about
       name: 关于我 ↗
-      url: "https://deqiang.wang"
+      url: "https://idealx.top"
       weight: 3
     - identifier: github
       name: Github
@@ -71,7 +66,7 @@ params:
     name: "AI资讯日报 | 洞悉AI前沿动态"
     bio: "AI Daily"
     email: "idealdestructor@gmail.com"
-    website: "https://deqiang.wang"
+    website: "https://idealx.top"
     social:
       - name: "GitHub"
         url: "https://github.com/idealdestructor"
@@ -79,7 +74,7 @@ params:
   publisher:
     type: "Person"
     name: "AI资讯日报 | 洞悉AI前沿动态"
-    url: "https://ai.deqiang.wang/"
+    url: "https://ai.idealx.top/"
     sameAs:
       - "https://github.com/idealdestructor"
 
